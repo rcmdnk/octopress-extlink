@@ -1,7 +1,7 @@
 octopress-extlink
 =================
 
-octopress-extlink provides "link" tag, used to add `target="_blank"` for external links.
+octopress-extlink provides "link" tag for Octopress (Jekyll), used to add `target="_blank"` for external links.
 
 # Installation
 
