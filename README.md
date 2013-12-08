@@ -50,3 +50,7 @@ This tag will be:
 
     <a href="http://example.com" class="myclass" target="_self">This is opend in the same window.</a>
 
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/rcmdnk/octopress-extlink/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
